@@ -1,1 +1,0 @@
-# mk-trig.github.io
